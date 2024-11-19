@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(160, 79, 126);
+    margin: 0 auto;
+    padding: 0;
+   
+}.inicio{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0;
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+}.info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 600px;
+    justify-content: center;
+    text-align: center;
+    color: purple;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 0px;
+}.info h2{
+    margin-bottom: auto;
+
+    margin: 0 auto;
+
+}.fin{
+    text-align: left;
+    color: purple;
+}h2{
+    color: white;
+}
+
+.fin a{
+    text-decoration: none;
+}.fin a:hover{
+    
+    color: white;
+}

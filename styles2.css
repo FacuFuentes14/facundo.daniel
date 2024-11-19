@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(160, 79, 126);
+    margin: 0 auto;
+    padding: 0;
+    
+}.inicio{
+    margin: 0 auto;
+    padding: 0;
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+}.info{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    justify-items: center;
+    text-align: center;
+    color:purple;
+    margin: 0 auto;
+}.info2{
+    text-align: center;
+    color:purple;
+}.final{
+    text-align: left;
+    color: white;
+}h2{
+    color: white;
+}p{
+    font-size: 20px;
+}.final a{
+    text-decoration: none;
+}.final a:hover{
+   
+    color: white;
+}

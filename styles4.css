@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(160, 79, 126);
+    
+}.inicio{
+    color: pink;
+    text-align: center;
+    font-size: 30px;
+}.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+}.cabello{
+    color: purple;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    gap: 4%;
+    font-size: 20px;
+}.contenido{
+    color: purple;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    gap: 4%;
+    font-size: 20px;
+}.mejor{
+    color: purple;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    gap: 4%;
+    font-size: 20px;
+}.ayuda{
+    color: purple;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    gap: 4%;
+    flex-direction: column;
+    font-size: 20px;
+}h2{
+    color: pink
+}.fin{
+    color: purple
+}.fin a{
+    text-decoration: none;
+}.fin a:hover{
+    
+    color: white
+}
